@@ -18,7 +18,7 @@ Demonstrated how to work with unstructured JSON data, transform it into a struct
   - **Receipts_main**: Contains general information about each receipt.
   - **Receipts_items**: Contains item-level data for each receipt, normalized from `rewardsReceiptItemList`.
 
-The ER diagram can be found in the `diagrams` directory.
+The ER diagram can be found in the `Question1_ERdiagram` directory.
 
 ### 2. Data Ingestion Process
 
