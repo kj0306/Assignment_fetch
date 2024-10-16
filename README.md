@@ -4,7 +4,7 @@
 This repository contains the solution for the Fetch Rewards Coding Exercise. 
 Demonstrated how to work with unstructured JSON data, transform it into a structured relational model, generate SQL queries to answer business questions, identify data quality issues, and communicate findings with stakeholders.
 
-**Note**: The entire methodology and process followed for this exercise is thoroughly explained in the `methodology.docs` file. Please refer to that document for a detailed explanation of each step.
+**Note**: The entire methodology and process followed for this exercise is thoroughly explained in the `methodology.pdf` file. Please refer to that document for a detailed explanation of each step.
 
 ## Exercise Breakdown
 
@@ -47,9 +47,9 @@ The findings from this evaluation can be found in the `Question3_DataCleaning` d
 
 ### 5. Communicating with Stakeholders
 
-- **Business Message**: I drafted a concise message to a business stakeholder (such as a product manager), explaining the data model and the insights derived from the SQL queries. This demonstrates how I communicate technical details in an understandable way for non-technical stakeholders.
+- **Business Message**: The email highlights key data quality issues found in Fetch's dataset, including missing data and discrepancies in reward calculations, and requests further clarification on how the point/reward system operates. It also proposes solutions to optimize the data pipeline and improve user engagement based on reward system performance.
 
-The draft message can be found in the `Question4_email` directory.
+The email can be found in the `Question4_email` directory.
 
 ## Files and Directories
 
